@@ -1,0 +1,4 @@
+This project needs installation of the below packages
+requests
+panda
+openpyxl
