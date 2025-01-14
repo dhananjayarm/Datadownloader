@@ -8,7 +8,7 @@ Explanation of the fields in config.json
 
 **end_date :** end date till which data needs to be downloaded. 
 
-**output_dir: **Directory in which file needs to be created
+**output_dir:** Directory in which file needs to be created
 
 **output_file :** Excel File name where the data needs to be downloaded. If the file is already there, it is append the additional data after the last record currently present
 
